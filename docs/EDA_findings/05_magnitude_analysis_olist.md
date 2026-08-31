@@ -1,0 +1,57 @@
+## 05 - Magnitude Analysis: Key Findings
+
+## fact_o_orders
+  - 40302	(41.92%) of customer are from "Sao Paulo" and least no.of.customers are from "Roraima"- 45(0.05%)
+  - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
