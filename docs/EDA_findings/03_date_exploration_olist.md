@@ -7,9 +7,9 @@
   - We have roughly two and half years of purchase datas, 634 days and 25 months
   - Range of the data: "2 years 2 mons 7 days"
 
-
-
-
+## Delivery Days
+  - medium delivery day to customer receive the order on 10 days from the day of purchase 
+  - avg estimated delivery days are 23 days from the day of purchase
 
 
 
