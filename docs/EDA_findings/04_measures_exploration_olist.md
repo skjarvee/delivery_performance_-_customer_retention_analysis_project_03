@@ -14,19 +14,17 @@
   - Total order delivered late: 7827
 
 # total order value
-  - total order value over R$349.20 is outliers
+  - Total order value over R$349.20 is outliers
 
 ## Delivery delay
-  median delivery delay is 5.84 days, 90% of delay under 22 days.
+  - Median delivery delay is 6 days, half the delayed order delivered within 6 days after the promised date(estimated delivery date), 90% of delays under 22 days.
 
 ## Payment installments
   - Maximum 24 month installments available
   - 75% of order have 4 month or less installments
 
-
-
-
-
+## Flagged forward
+  - one order had estimated delivery date window of "149 days" from purchase date. it could be random error on website
 
 
 
