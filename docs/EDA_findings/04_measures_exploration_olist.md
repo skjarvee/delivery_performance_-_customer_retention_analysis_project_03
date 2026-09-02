@@ -13,7 +13,7 @@
   - Average Freight Cost per item: R$19.99
   - Total order delivered late: 7827
 
-# total order value
+# Total order value
   - Total order value over R$349.20 is outliers
 
 ## Delivery delay
