@@ -17,6 +17,10 @@
   - For review score 1 , there are 3541 late deliveries which is	31.16% out of the total 1 review score orders.
   - 768 orders doesn't have any review score and in that total orders, 165 orders were late, which is	21.48% out of total order with null as review score
 
+##new customer by month
+  - 7026 new customer placed order on "2018-01-01".
+  - Median of 4978.5 new customer arrives to the website to place order.
+
 
 # Flagged forward:
   - "Alagoas"	has higher delay rate, 95 orders were delayed out of 413 total orders. which is 23.00% delay rate.
